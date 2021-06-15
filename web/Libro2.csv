@@ -1,0 +1,1165 @@
+Código,Descripción;
+P0001,Circuito de control del regulador de volumen de combustible - Abierto;
+P0002,Circuito de control del regulador de volumen de combustible - Rango/Rendimiento;
+P0003,Circuito de control del regulador de volumen de combustible - Bajo;
+P0004,Circuito de control del regulador de volumen de combustible - Alto;
+P0005,Circuito de válvula de corte de combustible - abierto.;
+P0006,Circuito de válvula de corte de combustible - bajo.;
+P0007,Circuito de válvula de corte de combustible - alto.;
+P0008,Error de posición entre cigüeñal y árbol de levas (Arbol1);
+P0009,Error de posición entre cigüeñal y árbol de levas (Arbol2);
+P000A,Camshaft Position Slow Response Bank 1;
+P000B,B Camshaft Position Slow Response Bank 1;
+P000C,A Camshaft Position Slow Response Bank 2;
+P000D,B Camshaft Position Slow Response Bank 2;
+P0010,Fallo en la valvula de la distribucion variable 1 circuito abierto;
+P0011,Árbol de levas 1 Sincronización adelantada.;
+P0012,Árbol de levas 1 Sincronización retrasada.;
+P0013,Posición del árbol de levas 2 Actuador falla;
+P0014,Árbol de levas 2 Sincronización adelantada.;
+P0015,Árbol de levas 2 Sincronización retrasada;
+P0016,Posición del Cigüeñal Relación incorrecta con el árbol de levas 1;
+P0017,Posición del Cigüeñal Relación incorrecta con el árbol de levas 2;
+P0018,Posición del Cigüeñal Relación incorrecta con el árbol de levas 3;
+P0019,Posición del Cigüeñal Relación incorrecta con el árbol de levas 4;
+P0020,Fallo en la válvula de la distribución variable 2 Circuito abierto.;
+P0021,Fallo en la válvula de la distribución variable 1. Posición avanzada;
+P0022,Fallo en la válvula de la distribución variable 1. Posición retrasada.;
+P0023,Fallo en la válvula de la distribución variable 2. Circuito abierto.;
+P0024,;Fallo en la válvula de la distribución variable 2. Posición avanzada
+P0025,;Fallo en la válvula de la distribución variable 2. Posición retrasada.
+P0026,;Árbol de levas ,solenoide de admisión no funciona cuando se ordena.Fuera de rango.
+P0027,;Árbol de levas, solenoide de escape no funciona cuando se ordena..Rendimiento
+P0028,;Árbol de levas 1 solenoide de admisión no funciona cuando se ordena.Fuera de rango.
+P0029,;Árbol de levas 1, solenoide de escape no funciona cuando se ordena..Rendimiento
+P0030,;Fallo en el calentador de la sonda lambda Banco 1 sensor 1
+P0031,;Fallo en el calentador de la sonda lambda. Tensión baja. Banco 1 sensor 1
+P0032,;Fallo en el calentador de la sonda lambda. Tensión alta. Banco 1 sensor 1
+P0033,;Fallo de la válvula de derivación del turbocompresor. Válvula de descarga
+P0034,;Fallo de la válvula de derivación del turbo. Válvula de descarga,circuito bajo
+P0035,;Fallo de la válvula de derivación del turbo. Válvula de descarga,circuito Alto
+P0036,;Fallo sonda lambda circuito del calentador Banco 1 sensor 2
+P0037,;Fallo calentador sonda lambda circuito bajo. Banco 1 sensor 2
+P0038,;Fallo calentador sonda lambda circuito alto. Banco 1 sensor 2
+P0039,;Valvula derivación del turbo fuera de rango
+P0040,;Señales de la sonda lambda cambiadas Banco 1 Sensor 1 / Banco 2 Sensor 1
+P0041,;Señales de la sonda lambda cambiadas 1 Sensor 2 / Banco 2 Sensor 2
+P0042,;Circuito defectuoso en el calentador de la sonda lambda Sensor 3 bloque 1
+P0043,;Circuito bajo en el calentador de la sonda lambda Sensor 3 bloque 1
+P0044,;Circuito alto en el calentador de la sonda lambda Sensor 3 bloque 1
+P0045,;Solenoide del turbocompresor circuito abierto
+P0046,;Solenoide del turbocompresor circuito Rendimiento incorrecto
+P0047,;Solenoide del turbocompresor circuito bajo
+P0048,;Solenoide del turbocompresor circuito alta
+P0049,;Exceso de velocidad en el turbo
+P004A,;Turbocharger/Supercharger Boost Control Solenoid B Circuit / Open
+P004B,;Turbocharger/Supercharger Boost Control Solenoid B Circuit
+P004C,;Turbocharger/Supercharger Boost Control Solenoid B Circuit Low
+P004D,;Turbocharger/Supercharger Boost Control Solenoid B Circuit High
+P004E,;Turbocharger/Supercharger Boost Control Solenoid A Circuit Intermittent/Erratic
+P004F,;Turbocharger/Supercharger Boost Control Solenoid B Circuit Intermittent/Erratic
+P0050,;Calentador sonda lambda (Sensor 1 bloque 2) circuito defectuoso
+P0051,;Calentador sonda lambda (Sensor 1 bloque 2) circuito bajo
+P0052,;Calentador sonda lambda (Sensor 1 bloque 2) circuito alto
+P0053,;Calentador sonda lambda (Sensor 1 bloque 1) – resistencia
+P0054,;Calentador sonda lambda (Sensor 2 bloque 1) – resistencia
+P0055,;Calentador sonda lambda (Sensor 3 bloque 1) – resistencia
+P0056,;Calentador sonda lambda (Sensor 2 bloque 2) circuito defectuoso
+P0057,;Calentador sonda lambda (Sensor 2 bloque 2) señal baja
+P0058,;Calentador sonda lambda (Sensor 2 bloque 2) señal alta
+P0059,;Calentador sonda lambda (Sensor 1 bloque 2) resistencia.
+P0060,;Calentador sonda lambda (Sensor 2 bloque 2) resistencia.
+P0061,;Calentador sonda lambda (Sensor 3 bloque 2) resistencia.
+P0062,;Calentador sonda lambda (Sensor 3 bloque 2) circuito defectuoso
+P0063,;Calentador sonda lambda (Sensor 3 bloque 2) señal baja
+P0064,;Calentador sonda lambda (Sensor 3 bloque 2) señal alta
+P0065,;Rendimiento incorrecto del inyector de aire asistido.
+P0066,;inyector de aire asistido , señal baja
+P0067,;inyector de aire asistido , señal alta
+P0068,;MAP / MAF y mariposa no coinciden en los datos
+P0069,;No coinciden los datos del sensor de presión barométrica con presión absoluta.
+P006A,;MAP Mass or Volume Air Flow Correlation
+P006B,;MAP Exhaust Pressure Correlation
+P006C,;MAP Turbocharger/Supercharger Inlet Pressure Correlation
+P006D,Barometric Pressure Turbocharger/Supercharger Inlet Pressure Correlation;
+P0070,;Fallo en el circuito del sensor de temperatura.
+P0071,;Rendimiento incorrecto del sensor de temperatura
+P0072,;Señal baja sensor de temperatura 1
+P0073,;Señal baja sensor de temperatura 2
+P0074,;Interrupción en la señal del sensor de temperatura
+P0075,;Solenoide (BLOQUE 1) válvula de admisión –circuito mal
+P0076,;Solenoide (BLOQUE 1) válvula de admisión –señal baja
+P0077,;Solenoide (BLOQUE 1) válvula de admisión –señal alta
+P0078,;Solenoide (BLOQUE 1) válvula de escape –circuito mal
+P0079,;Solenoide (BLOQUE 1) válvula de escape–señal baja
+P0080,;Solenoide (BLOQUE 1) válvula de escape–señal alta
+P0081,;Solenoide (BLOQUE 2) válvula de admisión –circuito mal
+P0082,;Solenoide (BLOQUE 2) válvula de admisión –señal baja
+P0083,;Solenoide (BLOQUE 2) válvula de admisión –señal alta
+P0084,;Solenoide (BLOQUE 2) válvula de escape –circuito mal
+P0085,;Solenoide (BLOQUE 2) válvula de escape–señal alta
+P0086,;Solenoide (BLOQUE 2) válvula de escape–señal baja
+P0087,;Presión de combustible demasiado baja.
+P0088,;Presión de combustible demasiado alta
+P0089,;Rendimiento incorrecto en el regulador de presión de combustible 1.
+P0090,;Regulador de presión de combustible 1 Circuito abierto
+P0091,;Regulador de presión de combustible 1 Cortocircuito a masa
+P0092,;Regulador de presión de combustible 1 Cortocircuito a positivo
+P0093,;Fuga grande en el sistema de combustible
+P0094,;Fuga pequeña en el sistema de combustible
+P0095,;Sensor de temperatura 2 de la admisión. Circuito defectuoso
+P0096,;Sensor de temperatura 2 de la admisión. Rendimiento incorrecto
+P0097,;Sensor de temperatura 2 de la admisión. Señal baja
+P0098,;Sensor de temperatura 2 de la admisión. Señal alta
+P0099,;Sensor de temperatura 2 de la admisión. Circuito intermitente o errático
+P009A,;Intake Air Temperature / Ambient Air Temperature Correlation
+P0100,;Fallo caudalimetro Circuito de aire incorrecto.
+P0101,;Rango y valores incorrectos caudalimetro.
+P0102,;Caudalimetro, Señal baja
+P0103,;Caudalimetro, Señal alta
+P0104,;Caudalimetro error intermitente.
+P0105,;Sensor de presión absoluta/presión barométrica Circuito defectuoso
+P0106,;Rendimiento incorrecto sensor de presión absoluta / sensor de presión barométrica.
+P0107,;Señal baja sensor de presión absoluta/ sensor de presión barométrica
+P0108,;Señal alta sensor de presión absoluta/sensor de presión barométrica
+P0109,;Señal intermitente sensor de presión absoluta/sensor de presión barométrica
+P010A,;Mass or Volume Air Flow B Circuit
+P010B,;Mass or Volume Air Flow B Circuit Range/Performance
+P010C,;Mass or Volume Air Flow B Circuit Low
+P010D,;Mass or Volume Air Flow B Circuit High
+P010E,;Mass or Volume Air Flow B Circuit Intermittent/Erratic
+P010F,;Mass or Volume Air Flow Sensor A/B Correlation
+P0110,;Circuito defectuoso sensor 1 temperatura aire admisión.
+P0111,;Rendimiento incorrecto sensor temperatura 1 aire admisión.
+P0112,;Señal baja sensor temperatura 1 aire admisión.
+P0113,;Señal alta sensor temperatura 1 aire admisión.
+P0114,;Señal intermitente sensor temperatura 1aire admisión.
+P0115,;Circuito defectuoso sensor de temperatura del anticongelante
+P0116,;Rendimiento incorrecto Circuito defectuoso sensor de temperatura del anticongelante
+P0117,;Señal baja sensor de temperatura del anticongelante
+P0118,;Señal alta sensor de temperatura del anticongelante
+P0119,;Señal intermitente sensor de temperatura del anticongelante
+P011A,;Engine Coolant Temperature Sensor 1/2 Correlation
+P0120,;Circuito defectuoso sensor posición pedal acelerador 1/mariposa 1
+P0121,;Rendimiento incorrecto del sensor posición pedal acelerador 1/mariposa 1
+P0122,;Señal baja del sensor posición pedal acelerador 1/mariposa 1
+P0123,;Señal alta del sensor posición pedal acelerador 1/mariposa 1
+P0124,;Señal intermitente del sensor posición pedal acelerador 1/mariposa 1
+P0125,;Temperatura del refrigerante insuficiente para bucle cerrado de combustible
+P0126,;Temperatura del refrigerante insuficiente para un funcionamiento estable
+P0127,;Temperatura del aire de admisión demasiado alta
+P0128,;Circuito defectuoso sensor de anticongelante en el termostato
+P0129,;Presión barométrica demasiado baja
+P012A,;Turbocharger/Supercharger Inlet Pressure Sensor Circuit
+P012B,;Turbocharger/Supercharger Inlet Pressure Sensor Circuit Range/Performance
+P012C,;Turbocharger/Supercharger Inlet Pressure Sensor Circuit Low
+P012D,;Turbocharger/Supercharger Inlet Pressure Sensor Circuit High
+P012E,;Turbocharger/Supercharger Inlet Pressure Sensor Circuit Intermittent/Erratic
+P0130,;Sonda lambda (Sensor 1 bloque 1) Circuito defectuoso
+P0131,;Sonda lambda (Sensor 1 bloque 1) Baja tensión
+P0132,;Sonda lambda (Sensor 1 bloque 1) Alta tensión
+P0133,;Sonda lambda (Sensor 1 bloque 1) Respuesta lenta
+P0134,;Sonda lambda (Sensor 1 bloque 1) no se detectó actividad
+P0135,;Sonda lambda (Sensor 1 bloque 1) rendimiento incorrecto
+P0136,;Sonda lambda (Sensor 2 bloque 1) circuito defectuoso
+P0137,;Sonda lambda (Sensor 2 bloque 1) Baja tensión
+P0138,;Sonda lambda (Sensor 2 bloque 1) Alta tensión
+P0139,;Sonda lambda (Sensor 2 bloque 1) Respuesta lenta
+P0140,;Sonda lambda (Sensor 2 bloque 1) no se detectó actividad
+P0141,;Circuito defectuoso Sonda lambda (Sensor 2 bloque 1)
+P0142,;Sonda lambda (Sensor 3 bloque 1) – circuito defectuoso
+P0143,;Sonda lambda (Sensor 3 bloque 1) Baja tensión
+P0144,;Sonda lambda (Sensor 3 bloque 1) Alta tensión
+P0145,;Sonda lambda (Sensor 3 bloque 1) Respuesta lenta
+P0146,;Sonda lambda (Sensor 3 bloque 1) no se detectó actividad
+P0147,;Fallo en el rendimiento Sonda lambda (Sensor 3 bloque 1)
+P0148,;Error en la alimentación de combustible
+P0149,;Error del reglaje de combustible
+P0150,;Sonda lambda (Sensor 1 bloque 2) – circuito defectuoso
+P0151,;Sonda lambda (Sensor 1 bloque 2) baja tensión
+P0152,;Sonda lambda (Sensor 1 bloque 2) Alto voltaje
+P0153,;Sonda lambda (Sensor 1 bloque 2) Respuesta lenta
+P0154,;Sonda lambda (Sensor 1 bloque 2) no se detectó actividad
+P0155,;Circuito defectuoso Sonda lambda (Sensor 1 bloque 2)
+P0156,;Sonda lambda (Sensor 2 bloque 2) – circuito defectuoso
+P0157,;Sonda lambda (Sensor 2 bloque 2) baja tensión
+P0158,;Sonda lambda (Sensor 2 bloque 2) Alto voltaje
+P0159,;Sonda lambda (Sensor 2 bloque 2) Respuesta lenta
+P0160,;Sonda lambda (Sensor 2 bloque 2) no se detectó actividad
+P0161,;Circuito defectuoso Sonda lambda (Sensor 2 bloque 2)
+P0162,;Sonda lambda (Sensor 3 bloque 2) circuito defectuoso
+P0163,;Sonda lambda (Sensor 3 bloque 2) baja tensión
+P0164,;Sonda lambda (Sensor 3 bloque 2) Alto voltaje
+P0165,;Sonda lambda (Sensor 3 bloque 2) Respuesta lenta
+P0166,;Sonda lambda (Sensor 3 bloque 2) no se detectó actividad
+P0167,;Circuito defectuoso Sonda lambda (Sensor 3 bloque 2)
+P0168,;Temperatura combustible demasiado alta
+P0169,;Composición del combustible incorrecto.
+P0170,;Regulación inyección en el bloque 1 (circuito defectuoso)
+P0171,;Regulación inyección en el bloque 1 (inyección pobre)
+P0172,;Regulación inyección en el bloque 1 (inyección rica)
+P0173,;Regulación inyección en el bloque 2 (circuito defectuoso)
+P0174,;Regulación inyección en el bloque 2 (inyección pobre)
+P0175,;Regulación inyección en el bloque 2 (inyección rica)
+P0176,;Fallo en el circuito del sensor de composición de combustible
+P0177,;Rango incorrecto del sensor de composición de combustible
+P0178,;Señal baja del sensor de composición de combustible
+P0179,;Señal alta del sensor de composición de combustible
+P0180,;Circuito defectuoso del sensor de composición de combustible
+P0181,;Sensor de temperatura de combustible 1 (Circuito defectuoso)
+P0182,;Señal baja sensor 1 de temperatura de combustible.
+P0183,;Señal alta sensor 1 de temperatura de combustible.
+P0184,;Señal intermitente sensor 1 de temperatura de combustible.
+P0185,;Circuito defectuoso sensor 2 de temperatura de combustible
+P0186,;Valores fuera de rango en el sensor 2 de temperatura de combustible
+P0187,;Señal baja en el sensor 2 de temperatura de combustible
+P0188,;Señal alta en el sensor 2 de temperatura de combustible
+P0189,;Fallo intermitente en el sensor 2 de temperatura de combustible
+P018A,;Fuel Pressure Sensor B Circuit
+P018B,;Fuel Pressure Sensor B Circuit Range/Performance
+P018C;Fuel Pressure Sensor B Circuit Low
+P018D,;Fuel Pressure Sensor B Circuit High
+P018E,;Fuel Pressure Sensor B Circuit Intermittent/Erratic
+P0190,;Circuito defectuoso en el sensor de presión de la rampa de combustible
+P0191,;Rendimiento incorrecto en el sensor de presión de la rampa de combustible
+P0192,;Señal baja en el sensor de presión de la rampa de combustible
+P0193,;Señal alta en el sensor de presión de la rampa de combustible
+P0194,;Señal intermitente en el sensor de presión de la rampa de combustible
+P0195,;Sensor de temperatura del aceite Circuito defectuoso.
+P0196,;Rendimiento y rango incorrecto sensor de temperatura del aceite
+P0197,;Señal baja Sensor de temperatura del aceite
+P0198,;Señal alta Sensor de temperatura del aceite
+P0199,;Señal intermitente Sensor de temperatura del aceite
+P0200,Inyectores (Circuito defectuoso);
+P0201,;Inyector del cilindro 1 –Circuito defectuoso
+P0202,;Inyector del cilindro 2 –Circuito defectuoso
+P0203,;Inyector del cilindro 3 –Circuito defectuoso
+P0204,;Inyector del cilindro 4 –Circuito defectuoso
+P0205,;Inyector del cilindro 5 –Circuito defectuoso
+P0206,;Inyector del cilindro 6 –Circuito defectuoso
+P0207,;Inyector del cilindro 7 –Circuito defectuoso
+P0208,;Inyector del cilindro 8 –Circuito defectuoso
+P0209,;Inyector del cilindro 9 –Circuito defectuoso
+P020A,;Cylinder 1 Injection Timing
+P020B,;Cylinder 2 Injection Timing
+P020C,;Cylinder 3 Injection Timing
+P020D,;Cylinder 4 Injection Timing
+P020E,;Cylinder 5 Injection Timing
+P020F,;Cylinder 6 Injection Timing
+P0210,;Inyector del cilindro 10 –Circuito defectuoso
+P0211,;Inyector del cilindro 11 –Circuito defectuoso
+P0212,;Inyector del cilindro 12 –Circuito defectuoso
+P0213,;Inyector de arranque en frió 1 –Circuito defectuoso
+P0214,;Inyector de arranque en frió 2- Circuito defectuoso
+P0215,;Circuito defectuoso solenoide de corte de combustible
+P0216,;Reglaje de la inyección _(Circuito defectuoso)
+P0217,;Sobrecalentamiento del motor Sensor de temperatura anticongelante
+P0218,;Sobrecalentamiento liquido de la transmisión
+P0219,;Sobre régimen del motor.
+P021A,;Cylinder 7 Injection Timing
+P021B,;Cylinder 8 Injection Timing
+P021C,;Cylinder 9 Injection Timing
+P021D,;Cylinder 10 Injection Timing
+P021E,;Cylinder 11 Injection Timing
+P021F,;Cylinder 12 Injection Timing
+P0220,;Sensor de posición del acelerador 2/mariposa 2- Circuito defectuoso
+P0221,;Rendimiento incorrecto Sensor de posición del acelerador 2/mariposa 2
+P0222,;Señal baja Sensor de posición del acelerador 2/mariposa 2
+P0223,;Señal alta Sensor de posición del acelerador 2/mariposa 2
+P0224,;eñal intermitente Sensor de posición del acelerador 2/mariposa 2
+P0225,;,Sensor de posición del acelerador 3/mariposa 3- Circuito defectuoso
+P0226,;Rendimiento incorrecto Sensor de posición del acelerador 3/mariposa 3
+P0227,;Señal baja Sensor de posición del acelerador 3/mariposa 3
+P0228,;Señal alta Sensor de posición del acelerador 3/mariposa 3
+P0229,;Señal intermitente Sensor de posición del acelerador 3/mariposa 3
+P022A,;Charge Air Cooler Bypass Control A Circuit /Open
+P022B,;Charge Air Cooler Bypass Control A Circuit Low
+P022C,;Charge Air Cooler Bypass Control A Circuit High
+P022D,;Charge Air Cooler Bypass Control B Circuit /Open
+P022E,;Charge Air Cooler Bypass Control B Circuit Low
+P022F,;Charge Air Cooler Bypass Control B Circuit High
+P0230,;Rele de la bomba de combustible- Circuito defectuoso
+P0231,;Señal baja del rele de la bomba de combustible secundaria
+P0232,;Señal alta del rele de la bomba de combustible secundaria
+P0233,;Señal intermitente del rele de la bomba de combustible secundaria
+P0234,;Sobrealimentacion del turbo. Limite excedido
+P0235,;Sobrealimentacion del turbo Limite previsto no alcanzado
+P0236,;Rendimiento incorrecto sensor de presion absoluta colector 1 del turbo
+P0237,;Señal baja sensor de presion absoluta colector 1 del turbo
+P0238,;,Señal alta sensor de presion absoluta colector 1del turbo.
+P0239,;Circuito defectuoso sensor de presion absoluta colector 2 del turbo
+P023A,;Charge Air Cooler Coolant Pump Control Circuit/Open
+P023B,;Charge Air Cooler Coolant Pump Control Circuit Low
+P023C,;Charge Air Cooler Coolant Pump Control Circuit High
+P023D,;Manifold Absolute Pressure Turbocharger/Supercharger Boost Sensor A Correlation
+P023E,;Manifold Absolute Pressure Turbocharger/Supercharger Boost Sensor B Correlation
+P0240,;Rendimiento incorrecto sensor de presion absoluta colector 2 del turbo
+P0241,;Señal baja sensor de presion absoluta colector 2 del turbo
+P0242,;Señal alta sensor de presion absoluta colector 2 del turbo
+P0243,;Valvula de descarga turbo 1 (WASTEGATE) circuito defectuoso
+P0244,;Rendimiento incorrecto Valvula de descarga turbo 1 (WASTEGATE)
+P0245,;Señal baja Valvula de descarga turbo 1 (WASTEGATE)
+P0246,;Señal alta Valvula de descarga turbo 1 (WASTEGATE)
+P0247,;Valvula de descarga turbo 2 (WASTEGATE) circuito defectuoso
+P0248,;Rendimiento incorrecto Valvula de descarga turbo 2 (WASTEGATE)
+P0249,;Señal baja Valvula de descarga turbo 2 (WASTEGATE)
+P024A,;Charge Air Cooler Bypass Control A Range/Performance
+P024B,;Charge Air Cooler Bypass Control A Stuck
+P024C,;Charge Air Cooler Bypass Position Sensor A Circuit
+P024D,;Charge Air Cooler Bypass Position Sensor A Circuit Range/Performance
+P024E,;Charge Air Cooler Bypass Position Sensor A Circuit Low
+P024F,;Charge Air Cooler Bypass Position Sensor A Circuit High
+P0250,;Señal alta Valvula de descarga turbo 2 (WASTEGATE)
+P0251,;Circuito defectuoso de la bomba de inyección 1 (Arbol levas/rotor)
+P0252,;Rango/funcionamiento incorrecto de la bomba de inyección 1 (Arbol levas/rotor)
+P0253,;Señal baja de la bomba de inyección 1 (Arbol levas/rotor)
+P0254,;Señal alta de la bomba de inyección 1 (Arbol levas/rotor)
+P0255,;Señal intermitente de la bomba de inyección 1 (Arbol levas/rotor)
+P0256,;Circuito defectuoso de la bomba de inyección 2 (Arbol levas/rotor)
+P0257,;Rango/funcionamiento incorrecto de la bomba de inyección 2 (Arbol levas/rotor)
+P0258,;Señal baja de la bomba de inyección 2 (Arbol levas/rotor)
+P0259,;Señal alta de la bomba de inyección 2 (Arbol levas/rotor)
+P025A,;Fuel Pump Module Control Circuit/Open
+P025B,;Fuel Pump Module Control Circuit Range/Performance
+P025C,;Fuel Pump Module Control Circuit Low
+P025D,;Fuel Pump Module Control Circuit High
+P0260,;Señal intermitente de la bomba de inyección 2 (Arbol levas/rotor)
+P0261,;Señal baja inyector cilindro 1
+P0262,;Señal alta inyector cilindro 1
+P0263,;Fallo en el equilibro correcto de combustible en inyector cilindro 1
+P0264,;Señal baja inyector cilindro 2
+P0265,;Señal alta inyector cilindro 2
+P0266,;Fallo en el equilibro correcto de combustible en inyector cilindro 2
+P0267,;Señal baja inyector cilindro 3
+P0268,;Señal alta inyector cilindro 3
+P0269,;Fallo en el equilibro correcto de combustible en inyector cilindro 3
+P0270,;Señal baja inyector cilindro 4
+P0271,;Señal alta inyector cilindro 4
+P0272,;Fallo en el equilibro correcto de combustible en inyector cilindro 4
+P0273,;Señal baja inyector cilindro 5
+P0274,;Señal alta inyector cilindro 5
+P0275,;Fallo en el equilibro correcto de combustible en inyector cilindro 5
+P0276,;Señal baja inyector cilindro 6
+P0277,;Señal alta inyector cilindro 6
+P0278,;Fallo en el equilibro correcto de combustible en inyector cilindro 6
+P0279,;Señal baja inyector cilindro 7
+P0280,;Señal alta inyector cilindro 7
+P0281,;Fallo en el equilibro correcto de combustible en inyector cilindro 7
+P0282,;Señal baja inyector cilindro 8
+P0283,;Señal alta inyector cilindro 8
+P0284,;Fallo en el equilibro correcto de combustible en inyector cilindro 8
+P0285,;Señal baja inyector cilindro 9
+P0286,;Señal alta inyector cilindro 9
+P0287,;Fallo en el equilibro correcto de combustible en inyector cilindro 9
+P0288,;Señal baja inyector cilindro 10
+P0289,;Señal alta inyector cilindro 10
+P0290,;Fallo en el equilibro correcto de combustible en inyector cilindro 10
+P0291,;Señal baja inyector cilindro 11
+P0292,;Señal alta inyector cilindro 11
+P0293,;Fallo en el equilibro correcto de combustible en inyector cilindro 11
+P0294,;Señal baja inyector cilindro 12
+P0295,;Señal alta inyector cilindro 12
+P0296,;Fallo en el equilibro correcto de combustible en inyector cilindro 12
+P0297,;Exceso de velocidad del vehiculo. Veras la guardia civil como te pille
+P0298,;Temperatura del aceite del motor demasiado alta.
+P0299,;Nivel de presión del turbo demasiado bajo
+P0300,;Uno o varios cilindros fallan . Falsas explosiones detectadas
+P0301,;Cilindro 1 falsa explosión detectada. No funciona correctamente,fallo de encendido
+P0302,;Cilindro 2 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0303,;Cilindro 3 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0304,;Cilindro 4 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0305,;Cilindro 5 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0306,;Cilindro 6 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0307,;Cilindro 7 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0308,;Cilindro 8 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0309,;Cilindro 9 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0310,;Cilindro 10 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0311,;Cilindro 11 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0312,;Cilindro 12 falsa explosión detectada No funciona correctamente, fallo de encendido
+P0313,;Detectado fallo de encendido con bajo nivel de combustible
+P0314,;Fallo de encendido en un cilindro (cilindro no especificado)
+P0315,;Variación de la posición del cigüeñal con respecto a los valores prefijados de fabrica
+P0316,;Fallo de encendido en el arranque (solo hasta 1000 revoluciones)
+P0317,;No se encuentra el hardware sensor carretera desnivelada. Usado para posicionar cigüeñal en carreteras
+P0318,;Circuito defectuoso sensor de carretera bacheada 1
+P0319,;Circuito defectuoso sensor de carretera bacheada 2
+P0320,;Circuito defectuoso del sensor de posición del cigüeñal /régimen motor
+P0321,;Rendimiento incorrecto del sensor de posición del cigüeñal /régimen motor
+P0322,;Sin señal sensor de posición cigüeñal/régimen motor.
+P0323,;Circuito intermitente sensor posición del cigüeñal/régimen motor
+P0324,;Error en el sistema de detonación. KNOCK sensor
+P0325,;Circuito defectuoso sensor detonación 1 (bloque1)
+P0326,;Rendimiento incorrecto sensor detonación 1 (bloque1)
+P0327,;Señal baja sensor detonación 1 (bloque1)
+P0328,;Señal alta sensor detonación 1 (bloque1)
+P0329,;Señal intermitente sensor detonación 1 (bloque1)
+P0330,;Circuito defectuoso sensor detonación 2 (bloque 2)
+P0331,;Rendimiento incorrecto sensor detonación 2 (bloque 2)
+P0332,;Señal baja sensor detonación 2 (bloque 2)
+P0333,;Señal alta sensor detonación 2 (bloque 2)
+P0334,;Señal intermitente sensor detonación 2 (bloque 2)
+P0335,;Sensor posición cigüeñal 1 circuito defectuoso
+P0336,;Rendimiento incorrecto Sensor posición cigüeñal 1
+P0337,;Señal baja Sensor posición cigüeñal 1
+P0338,;Señal alta Sensor posición cigüeñal 1
+P0339,;Señal intermitente Sensor posición cigüeñal 1
+P0340,;Circuito defectuoso sensor posición árbol de levas 1 bloque 1
+P0341,;Rango incorrecto sensor posición árbol de levas 1 bloque 1
+P0342,;Señal baja sensor posición árbol de levas 1 bloque 1
+P0343,;Señal alta sensor posición árbol de levas 1 bloque 1
+P0344,;Señal intermitente sensor posición árbol de levas 1 bloque 1
+P0345,;Circuito defectuoso sensor posición árbol de levas 1 bloque 2
+P0346,;Rendimiento incorrecto sensor posición árbol de levas 1 bloque 2
+P0347,;Señal baja sensor posición árbol de levas 1 bloque 2
+P0348,;Señal alta sensor posición árbol de levas 1 bloque 2
+P0349,;Señal intemritente sensor posición árbol de levas 1 bloque 2
+P0350,;Circuito defectuoso Bobina de encendido primaria o secundaria
+P0351,;Circuito defectuoso Bobina de encendido A Circuito primario o secundario
+P0352,;Circuito defectuoso Bobina de encendido B Circuito primario o secundario
+P0353,;Circuito defectuoso Bobina de encendido C Circuito primario o secundario
+P0354,;Circuito defectuoso Bobina de encendido D Circuito primario o secundario
+P0355,;Circuito defectuoso Bobina de encendido E Circuito primario o secundario
+P0356,;Circuito defectuoso Bobina de encendido F Circuito primario o secundario
+P0357,;Circuito defectuoso Bobina de encendido G Circuito primario o secundario
+P0358,;Circuito defectuoso Bobina de encendido H Circuito primario o secundario
+P0359,;Circuito defectuoso Bobina de encendido I Circuito primario o secundario
+P0360,;Circuito defectuoso Bobina de encendido J Circuito primario o secundario
+P0361,;Circuito defectuoso Bobina de encendido K Circuito primario o secundario
+P0362,;Circuito defectuoso Bobina de encendido L Circuito primario o secundario
+P0363,;Fallo de encendido. Anulacion de alimentación de combustible
+P0364,;Reservado
+P0365,;Circuito defectuoso en el sensor del árbol de levas 2
+P0366,;Rendimiento incorrecto en el sensor del árbol de levas 2
+P0367,;Señal baja en el sensor del árbol de levas 2
+P0368,;Señal alta en el sensor del árbol de levas 2
+P0369,;Señal intermitente en el sensor del árbol de levas 2
+P0370,;Señal defectuosa en el reglaje de encendido. 1
+P0371,;Demasiados impulsos en la señal del reglaje de encendido 1
+P0372,;Muy pocos impulsos en la señal del reglaje del encendido 1
+P0373,;Señal intermitente en la señal del reglaje de encendido. 1
+P0374,;No hay pulso ni señal en el reglaje del encendido 1
+P0375,;Señal defectuosa en el reglaje de encendido. 2
+P0376,;Demasiados impulsos en la señal del reglaje de encendido 2
+P0377,;Muy pocos impulsos en la señal del reglaje del encendido 2
+P0378,;Señal intermitente en la señal del reglaje de encendido. 2
+P0379,;No hay pulso ni señal en el reglaje del encendido 2
+P0380,;Fallo en los calentadores en el circuito 1
+P0381,;Circuito defectuoso en el testigo de los calentadores
+P0382,;Fallo en los calentadores en el circuito 2
+P0383,;Reservado para SAE J2012
+P0384,;Reservado para SAE J2012
+P0385,;Sensor de posición de cigüeñal 2 –circuito defectuoso.
+P0386,;Rendimiento incorrecto Sensor de posición de cigüeñal 2
+P0387,;Señal baja Sensor de posición de cigüeñal 2
+P0388,;Señal alta Sensor de posición de cigüeñal 2
+P0389,;Señal intermitente Sensor de posición de cigüeñal 2
+P0390,;Circuito defectuoso en el sensor del árbol de levas 2
+P0391,;Rendimiento incorrecto en el sensor del árbol de levas 2
+P0392,;Señal baja en el sensor del árbol de levas 2
+P0393,;Señal alta en el sensor del árbol de levas 2
+P0394,;Señal intermitente en el sensor del árbol de levas 2
+P0400,;Flujo incorrecto en la EGR
+P0401,;Poco flujo en la Egr
+P0402,;Demasiado flujo en la Egr
+P0403,;Circuito defectuoso en la EGR
+P0404,;Rendimiento incorrecto de la valvula EGR
+P0405,;Señal baja en el sensor 1 de la EGR
+P0406,;Señal alta en el sensor 1 de la EGR
+P0407,;Señal baja en el sensor 2 de la EGR
+P0408,;Señal alta en el sensor 2 de la EGR
+P0409,;Circuito defectuoso en el sensor 1 de la EGR
+P040A,;Exhaust Gas Recirculation Temperature Sensor A Circuit
+P040B,;Exhaust Gas Recirculation Temperature Sensor A Circuit Range/Performance
+P040C,;Exhaust Gas Recirculation Temperature Sensor A Circuit Low
+P040D,;Exhaust Gas Recirculation Temperature Sensor A Circuit High
+P040E,;Exhaust Gas Recirculation Temperature Sensor A Circuit Intermittent/Erratic
+P040F,;Exhaust Gas Recirculation Temperature Sensor A/B Correlation
+P0410,;Sistema de inyección de aire secundario DEFECTUOSO
+P0411,;Flujo incorrecto en el sistema de inyección de aire secundario
+P0412,;Circuito defectuoso en la valvula de inyección de aire 1
+P0413,;Circuito abierto en la valvula de inyección de aire 1
+P0414,;Cortocircuito en la valvula de inyección de aire 1
+P0415,;Circuito defectuoso en la valvula de inyección de aire 2
+P0416,;Circuito abierto en la valvula de inyección de aire 2
+P0417,;Cortocircuito en la valvula de inyección de aire 2
+P0418,;Rele defectuoso en la inyección de aire 1
+P0419,;Rele defectuoso en la inyección de aire 2
+P041A,;Exhaust Gas Recirculation Temperature Sensor B Circuit
+P041B,;Exhaust Gas Recirculation Temperature Sensor B Circuit Range/Performance
+P041C,;Exhaust Gas Recirculation Temperature Sensor B Circuit Low
+P041D,;Exhaust Gas Recirculation Temperature Sensor B Circuit High
+P041E,;Exhaust Gas Recirculation Temperature Sensor B Circuit Intermittent/Erratic
+P0420,;Eficiencia del catalizador 1 por debajo del umbral
+P0421,;Eficiencia del catalizador delantero 1 por debajo del umbral
+P0422,;Eficiencia del catalizador principal por debajo del umbral
+P0423,;Eficiencia del catalizador secundario 1 por debajo del umbral
+P0424,;Temperatura del catalizador 1 por debajo del umbral
+P0425,;El sensor de temperatura del catalizador 1 no esta presente o esta defectuoso
+P0426,;Rendimiento incorrecto del sensor de temperatura del catalizador 1
+P0427,;Señal baja del sensor de temperatura del catalizador 1
+P0428,;Señal alta del sensor de temperatura del catalizador 1
+P0429;Circuito defectuoso del sensor de temperatura del catalizador 1
+P042A,;Catalyst Temperature Sensor Circuit Bank 1 Sensor 2
+P042B,;Catalyst Temperature Sensor Circuit Range/Performance Bank 1 Sensor 2
+P042C,;Catalyst Temperature Sensor Circuit Low Bank 1 Sensor 2
+P042D,;Catalyst Temperature Sensor Circuit High Bank 1 Sensor 2
+P0430,;Eficiencia por debajo del umbral en el catalizador 2
+P0431,;Catalizador delantero 2 eficiencia por debajo del umbral
+P0432,;Eficiencia catalizador principal 2 por debajo del umbral
+P0433;Eficiencia temperatura catalizador 2 por debajo del umbral
+P0434,;Temperatura por debajo del umbral en el catalizador 2
+P0435,;El sensor de temperatura del catalizador 2 no esta presente o esta defectuoso
+P0436,;Rendimiento incorrecto del sensor de temperatura del catalizador 2
+P0437,;Señal baja del sensor de temperatura del catalizador 2
+P0438,;Señal alta del sensor de temperatura del catalizador 2
+P0439,;Calentador Catalizador Control del Circuito
+P043A,;Catalyst Temperature Sensor Circuit Bank 2 Sensor 2
+P043B,;Catalyst Temperature Sensor Circuit Range/Performance Bank 2 Sensor 2
+P043C,;Catalyst Temperature Sensor Circuit Low Bank 2 Sensor 2
+P043D,;Catalyst Temperature Sensor Circuit High Bank 2 Sensor 2
+P043E,;Evaporative Emission System Leak Detection Reference Orifice Low Flow
+P043F,;Evaporative Emission System Leak Detection Reference Orifice High Flow
+P0440,;Sistema emisiones evaporadas defectuoso Sistema EVAP
+P0441,;Flujo incorrecto en el sistema Evap Sistema emisiones evaporadas
+P0442,;Fuga en el sistema EVAP Sistema emisiones evaporadas
+P0443,;Circuito defectuoso en la válvula de control de emisiones.
+P0444,;Circuito abierto en la valvula de purga del control de emisiones
+P0445,;Cortocircuito en la valvula de purga del control de emisiones
+P0446,;Circuito defectuoso en la valvula de purga del control de emisiones
+P0447,;Circuito abierto en el sistema de control de ventilación de las evaporaciones
+P0448,;Cortocircuito en el sistema de control de ventilación de las evaporaciones
+P0449,;Circuito defectuoso en el sistema de control de ventilación de las evaporaciones
+P0450,;Circuito defectuoso sensor de presión de emisiones por evaporacion
+P0451,;Rendimiento incorrecto sensor de presión de emisiones por evaporacion
+P0452,;Señal baja en el sensor de presión de emisiones por evaporacion
+P0453,;Presión alta en el sensor de presión de emisiones por evaporacion
+P0454,;Señal intermitente en el sensor de presión de emisiones por evaporacion
+P0455,;Fuga grande en el sistema emisiones evaporacion
+P0456,;Fuga pequeña en el sistema emisiones evaporacion
+P0457,;Fuga detectada en el sistema emisiones evaporacion
+P0458,;Señal baja en el sistema de control de emisiones por evaporaciones
+P0459,;Señal alta en el sistema de control de emisiones por evaporaciones
+P0460,;Circuito defectuoso en el sensor de nivel de combustible
+P0461,;Rendimiento incorrecto del sensor de nivel de combustible
+P0462,;Señal baja Sensor de combustible
+P0463,;Señal alta sensor de combustible
+P0464,;Señal intermitente en el sensor de combustible.
+P0465,;Circuito defectuoso en el sensor de purge del sistema de evaporaciones EVAP
+P0466,;Rendimiento incorrect en el sensor de purge del sistema de evaporaciones EVAP
+P0467,;Señal baja en el sensor de purge del sistema de evaporaciones EVAP
+P0468,;Señal alta en el sensor de purge del sistema de evaporaciones EVAP
+P0469,;Señal intermitente en el sensor de purge del sistema de evaporaciones EVAP
+P0470,;Circuito defectuoso en Sensor de presión de gases de escape
+P0471,;Rendimiento incorrecto en el sensor de presión de gases de escape
+P0472,;Baja presión en el sensor de presión de los gases de escape
+P0473,;Alta presión detectada en el sensor de presión de los gases de escape
+P0474,;Señal intermitente en el sensor de presión de los gases de escape
+P0475,;Circuito defectuoso en el sensor de presión de los gases de escape
+P0476,;Rendimiento incorrecto en la valuvla reguladora de los gases de escape
+P0477,;Señal baja en la valuvla reguladora de los gases de escape
+P0478,;Señal alta en la valuvla reguladora de los gases de escape
+P0479,;Señal intermitente en la valuvla reguladora de los gases de escape
+P047A,;Exhaust Pressure Sensor B Circuit
+P047B,;Exhaust Pressure Sensor B Circuit Range/Performance
+P047C,;Exhaust Pressure Sensor B Circuit Low
+P047D,;Exhaust Pressure Sensor B Circuit High
+P047E,;Exhaust Pressure Sensor B Circuit Intermittent/Erratic
+P0480,;Circuito defectuoso Ventilador refrigerante motor 1
+P0481,;Circuito defectuoso ventilador refrigerante motor 2
+P0482,;Circuito defectuoso ventilador refrigerante motor 3
+P0483,;Ventilador refrigerante motor defectuoso
+P0484,;Sobrecarga corriente en ventilador refrigerante motor
+P0485,;Ventilador de refrigerante motor deriva a masa- Circuito defectuoso.
+P0486,;Sensor valvula egr 2 defectuoso
+P0487,;Circuito defectuoso en los gases de recirculación con respecto a la mariposa
+P0488,;Rendimiento incorrecto gases de recirculación con respecto a la mariposa.
+P0489,;Señal baja en la EGR (recirculación de gases de escape)
+P0490,;Señal alta en la EGR (recirculación de gases de escape)
+P0491,;Funcionamiento incorrecto en el sistema de inyección de aire secundario en bloque 1
+P0492,;Funcionamiento incorrecto en el sistema de inyección de aire secundario en bloque 2
+P0493,;Exceso de velocidad del ventilador refrigerante
+P0494,;Fallo en la velocidad baja del ventilador de refrigerante
+P0495,;Fallo en la velocidad alta del ventilador de refrigerante
+P0496,;Flujo purga alto en el sistema de emisiones de evaporación
+P0497,;Flujo purga bajo en el sistema de emisiones de evaporación
+P0498,;Señal baja en el control de ventilación de las emisiones evaporativas
+P0499,;Señal alta en el control de ventilación de las emisiones evaporativas
+P0500,;Circuito defectuoso en el sensor de velocidad del vehiculo
+P0501,;Rendimiento incorrecto en el sensor de velocidad del vehiculo
+P0502,;Señal baja del sensor de velocidad del vehiculo
+P0503,;Señal alta/intermitente del sensor de velocidad del vehiculo.
+P0504,;Relacion del interruptor del freno no es correcta
+P0505,;Control del ralentí defectuoso
+P0506,;Revoluciones inferior a lo previsto en el sistema de control del ralenti
+P0507,;Revoluciones superior a lo previsto en el sistema de control del ralenti
+P0508,;Señal baja en el control del aire del ralenti.
+P0509,;Señal alta en el control del aire del ralentí
+P050A,;Cold Start Idle Air Control System Performance
+P050B,;Cold Start Ignition Timing Performance
+P050C,;Cold Start Engine Coolant Temperature Performance
+P050D,;Cold Start Rough Idle
+P0510,;Circuito defectuoso en el interruptor mariposa cerrada
+P0511,;Circuito defectuoso control aire ralentí
+P0512,;Circuito petición motor de arranque –Funcionamiento incorrecto
+P0513,;Llave incorrecta. Inmovilizador detecta llave incorrecta
+P0514,;Rendimiento incorrecto sensor temperatura batería
+P0515,;Circuito defectuoso sensor temperatura bateria
+P0516,;Señal baja sensor temperatura bateria
+P0517,;Señal alta sensor temperatura bateria
+P0518,;Señal intermitente control del aire del ralenti
+P0519,;Rendimiento incorrecto control del aire del ralenti
+P0520,;Circuito defectuoso sensor presión aceite motor
+P0521,;Rendimiento incorrecto sensor presión aceite motor
+P0522,;Señal baja sensor presión aceite motor
+P0523,;Señal alta sensor presión aceite motor
+P0524,;Presión de aceite del motor demasiado baja
+P0525,;Funcionamiento incorrecto control velocidad crucero
+P0526,;Circuito defectuoso sensor velocidad refrigerante motor
+P0527,;Rendimiento incorrecto Sensor de velocidad del ventilador del anticongelante
+P0528,;No hay señal del ventilador del anticongelante
+P0529,;Señal intermitente del sensor de velocidad del ventilador de anticongelante
+P0530,;Circuito defectuoso sensor de presión de refrigerante Aire acondicionado
+P0531,;Rango incorrecto sensor de presión de refrigerante Aire acondicionado
+P0532,;Señal baja sensor de presión de refrigerante Aire acondicionado
+P0533,;Señal alta sensor de presión de refrigerante Aire acondicionado
+P0534,;Perdida refrigerante aire acondicionado
+P0535,;Sensor de temperatura evaporador del aire acondicionado defectuoso
+P0536,;Rendimiento incorrecto del sensor de temperatura evaporador del aire acondicionado
+P0537,;Señal baja del sensor de temperatura evaporador del aire acondicionado
+P0538,;Señal alta del sensor de temperatura evaporador del aire acondicionado
+P0539,;Señal intermitente del sensor de temperatura evaporador del aire acondicionado
+P053A,;Positive Crankcase Ventilation Heater Control Circuit /Open
+P053B,;Positive Crankcase Ventilation Heater Control Circuit Low
+P053C,;Positive Crankcase Ventilation Heater Control Circuit High
+P0540,;Circuito defectuoso del calentador del aire de la admisión 1
+P0541,;Señal baja del calentador del aire de la admisión 1
+P0542,;Señal alta del calentador del aire de la admisión 1
+P0543,;Circuito abierto del calentador del aire de la admisión 1
+P0544,;Sensor temperatura EGR banco 1 defectuoso
+P0545,;Señal baja Sensor temperatura EGR banco 1
+P0546,;Señal alta Sensor temperatura EGR banco 1
+P0547,;Sensor temperatura EGR banco 2 defectuoso
+P0548,;Señal baja Sensor temperatura EGR banco 2
+P0549,;Señal alta Sensor temperatura EGR banco 2
+P0550,;Circuito defectuoso sensor de presión hidráulica en dirección asistida
+P0551,;Rango incorrecto sensor de presión hidráulica en dirección asistida
+P0552,;Señal baja sensor de presión hidráulica en dirección asistida
+P0553,;Señal alta sensor de presión hidráulica en dirección asistida
+P0554,;Señal intermitente sensor de presión hidráulica en dirección asistida
+P0555,;Circuito defectuoso en el sensor de presión del servofeno
+P0556,;Rango incorrecto en el sensor de presión del servofeno
+P0557,;Señal baja en el sensor de presión del servofeno
+P0558,;Señal alta en el sensor de presión del servofeno
+P0559,;Señal intermitente en el sensor de presión del servofeno
+P0560,;Tensión del sistema incorrecta
+P0561,;Tensión del sistema inestable
+P0562,;Tensión del sistema baja
+P0563,;Tensión del sistema Alta
+P0564,;Circuito defectuoso en la señal de entrada del control de crucero.
+P0565,;Encendido del control cruise defectuoso. Circuito
+P0566,;Interruptor de apagado control cruise defectuoso
+P0567,;Interruptor Resume o reanudación defectuoso
+P0568,;Interruptor SET del control de crucero defectuoso
+P0569,;Interruptor reducción de la velocidad del control de crucero defectuoso
+P056A,;Cruise Control Increase Distance Signal
+P056B,;Cruise Control Decrease Distance Signal
+P0570,;Interruptor aumento de la velocidad del control de crucero defectuoso
+P0571,;Interruptor de velocidad/freno 1 defectuoso
+P0572,;Señal baja interruptor de velocidad/freno
+P0573,;Señal alta interruptor de velocidad /freno
+P0574,;Control de crucero-Velocidad del vehiculo muy alta
+P0575,;Control velocidad de crucero. Señal defectuosa
+P0576,;Señal baja control de crucero
+P0577,;Señal alta control de crucero.
+P0578,;Activación permanente del control de crucero. Circuito 1
+P0579,;Rango incorrecto del control de velocidad del crucero Circuito 1
+P0580,;Señal baja control de velocidad de crucero Circuito 1
+P0581,;Señal alta control de velocidad de crucero circuito 1
+P0582,;Control de velocidad de crucero control de vacio circuito abierto
+P0583,;Señal baja del control de vacio del control de crucero
+P0584,;Señal alta del control de vacio del control de crucero
+P0585,;Correlacion mal entre 1/2 control de velocidad de crucero
+P0586,;Control de ventilación del control de crucero con el circuito abierto
+P0587,;Señal baja del control de ventilación del control de crucero
+P0588,;Señal alta del control de ventilación del control de crucero
+P0589,;Circuito defectuoso control de velocidad de crucero circuito 2
+P0590,;Activacion permanente control de velocidad de crucero circuito 2
+P0591,;Rendimiento incorecto control de velocidad de crucero circuito 2
+P0592,;Señal baja control de velocidad de crucero circuito 2
+P0593,;Señal alta control de velocidad de crucero circuito 2
+P0594,;Circuito abierto control del actuador del control de crucero
+P0595,;Señal baja control del actuador de velocidad de crucero
+P0596,;Señal alta control de velocidad de crucero control del actuador.
+P0597,;Circuito abierto en el control del calentador del termostato
+P0598,;Señal baja control calentador del termostato
+P0599,;Señal alta control calentador del termostato
+P0600,;Sistema Canbus defectuoso.
+P0601,;Fallo en la memoria ROM Modulo control del motor
+P0602,;Error de programación modulo control del motor
+P0603,;Error permanente en memoria KAM modulo de control del motor.
+P0604,;Error memoria Ram-Modulo control motor
+P0605,;Error memoria ROM en el modulo control motor
+P0606,;Fallo del procesador-Modulo control del motor
+P0607,;Problema de funcionamiento modulo control de motor
+P0608,;Señal de salida 1 defectuosa en el sensor de velocidad del vehiculo
+P0609,;Señal de salida 2 defectuosa en el modulo control del motor
+P060A,;Internal Control Module Monitoring Processor Performance
+P060B,;Internal Control Module A/D Processing Performance
+P060C,;Internal Control Module Main Processor Performance
+P060D,;Internal Control Module Accelerator Pedal Position Performance
+P060E,;Internal Control Module Throttle Position Performance
+P060F,;Internal Control Module Coolant Temperature Performance
+P0610,;Error en las opciones del vehiculo-Modulo de control
+P0611,;Problema de funcionamiento en el modulo de control de inyección de combustible
+P0612,;Fallo en el rele del modulo de control de combustible
+P0613,;Fallo en el procesador del modulo de la caja de cambios.TCM
+P0614,;ECM / TCM Incompatible
+P0615,;Circuito defectuoso en el rele del motor de arranque
+P0616,;Señal baja en el rele del motor de arranque
+P0617,;Señal alta en el rele del motor de arranque
+P0618,;Error de memoria permanente en el modulo de control de combustible alternativo
+P0619,;Error de memoria RAM/ROM en el modulo de control de combustible alternativo
+P061A,;Internal Control Module Torque Performance
+P061B,;Internal Control Module Torque Calculation Performance
+P061C,;Internal Control Module Engine RPM Performance
+P061D,;Internal Control Module Engine Air Mass Performance
+P061E,;Internal Control Module Brake Signal Performance
+P061F,;Internal Control Module Throttle Actuator Controller Performance
+P0620,;Circuito defectuoso en el control del alternador
+P0621,;Circuito defectuoso del testigo del alternador
+P0622,;Circuito defectuoso en el testigo del alternador ,control de campo.
+P0623,;Circuito defectuoso testigo control alternador
+P0624,;Circuito defectuoso en el testigo del tapon de llenado.
+P0625,;Señal baja en el terminal campo alternador
+P0626,;Señal alta en el terminal campo alternador
+P0627,;Circuito abierto en el control de la bomba de combustible 1
+P0628,;Señal baja en el control de la bomba de combustible 1
+P0629,;Señal alta en el control de la bomba de combustible
+P062A,;Fuel Pump A Control Circuit Range/Performance
+P062B,;Internal Control Module Fuel Injector Control Performance
+P062C,;Internal Control Module Vehicle Speed Performance
+P062D,;Fuel Injector Driver Circuit Performance Bank 1
+P062E,;Fuel Injector Driver Circuit Performance Bank 2
+P062F,;Internal Control Module EEPROM Error
+P0630,;Numero de bastidor no corresponde con el modulo motor/transmision
+P0631,;Numero de bastidor incompatible con la caja de cambios TCM
+P0632,;Cuentakilómetros No Programado – ECM / PCM
+P0633,;Llave no programada modulo motor/transmision
+P0634,;PCM / ECM / TCM temperatura interna muy alta
+P0635,;Circuito defectuoso en el control de la dirección asistida.
+P0636,;Señal baja en el control de la dirección asistida
+P0637,;Señal alta en el control de la dirección asistida
+P0638,;Funcionamiento incorrecto del modulo de control de la mariposa bloque 1
+P0639,;Funcionamiento incorrecto del modulo de control de la mariposa bloque 2
+P063A,;Generator Voltage Sense Circuit
+P063B,;Generator Voltage Sense Circuit Range/Performance
+P063C,;Generator Voltage Sense Circuit Low
+P063D,;Generator Voltage Sense Circuit High
+P063E,;Auto Configuration Throttle Input Not Present
+P063F,;Auto Configuration Engine Coolant Temperature Input Not Present
+P0640,;Circuito defectuoso control de calentador de aire de la admisión.
+P0641,;Circuito abierto tensión referencia sensor 1
+P0642,;Señal baja tensión de referencia sensor 1
+P0643,;Señal alta tensión de referencia sensor 1
+P0644,;Circuito defectuoso comunicación en serie pantalla del conductor
+P0645,;Funcionamiento incorrecto rele embrague compresor aire acondicionado.
+P0646,;Señal baja del rele del embrague compresor aire acondicionado.
+P0647,;Señal alta del rele del embrague compresor aire acondicionado.
+P0648,;Circuito defectuoso testigo control inmovilizador
+P0649,;Circuito defectuoso testigo velocidad de crucero.
+P0650,;Circuito defectuoso testigo de averia
+P0651,;Circuito abierto tensión de referencia 2
+P0652,;Señal baja tensión de referencia 2
+P0653,;Señal alta tensión de referencia 2
+P0654,;Circuito defectuoso señal de salida régimen motor.
+P0655,;Circuito defectuoso testigo sobrecalentamiento motor
+P0656,;Circuito defectuoso señal salida de combustible.
+P0657,;Circuito abierto tensión alimentación actuador 1
+P0658,;Señal baja tensión alimentación actuador 1
+P0659,;Señal alta tensión alimentación actuador 1
+P065A,;Generator System Performance
+P065B,;Generator Control Circuit Range/Performance
+P0660,;Circuito abierto valvula control aire colector de admisión bloque 1
+P0661,;Señal baja valvula control aire colector de admisión bloque 1
+P0662,;Señal alta valvula control aire colector de admisión bloque 1
+P0663,;Circuito abierto valvula control aire colector de admisión bloque 2
+P0664,;Señal baja valvula control aire colector de admisión bloque 2
+P0665,;Señal alta valvula control aire colector de admisión bloque 2
+P0666,;Circuito defectuoso sensor temperatura interna modulo transmisión/motor
+P0667,;Rendimiento incorrecto sensor temperatura interna modulo motor/transmision
+P0668,;Señal baja sensor temperatura interna modulo motor/transmision
+P0669,;Señal alta sensor temperatura interna modulo motor/transmision
+P066A,;Glow Plug 1 Control Circuit Low
+P066B,;Glow Plug 1 Control Circuit High
+P066C,;Glow Plug 2 Control Circuit Low
+P066D,;Glow Plug 2 Control Circuit High
+P066E,;Glow Plug 3 Control Circuit Low
+P066F,;Glow Plug 3 Control Circuit High
+P0670,;Circuito defectuoso modulo control calentadores
+P0671,;Circuito defectuoso calentadores cilindro 1
+P0672,;Circuito defectuoso calentadores cilindro 2
+P0673,;Circuito defectuoso calentadores cilindro 3
+P0674,;Circuito defectuoso calentadores cilindro 4
+P0675,;Circuito defectuoso calentadores cilindro 5
+P0676,;Circuito defectuoso calentadores cilindro 6
+P0677,;Circuito defectuoso calentadores cilindro 7
+P0678,;Circuito defectuoso calentadores cilindro 8
+P0679,;Circuito defectuoso calentadores cilindro 9
+P067A,;Glow Plug 4 Control Circuit Low
+P067B,;Glow Plug 4 Control Circuit High
+P067C,;Glow Plug 5 Control Circuit Low
+P067D,;Glow Plug 5 Control Circuit High
+P067E,;Glow Plug 6 Control Circuit Low
+P067F,;Glow Plug 6 Control Circuit High
+P0680,;Circuito defectuoso calentadores cilindro 10
+P0681,;Circuito defectuoso calentadores cilindro 11
+P0682,;Circuito defectuoso calentadores cilindro 12
+P0683,;Comunicación incorrecta modulo calentadores/motor/transmision
+P0684,;Funcionamiento incorrecto en la comunicación entre los modulos de calentadores/motor /transmision
+P0685,;Circuito abierto rele alimentación modulo motor/transmision
+P0686,;Señal baja rele alimentación modulo motor/transmision
+P0687,;Señal alta rele alimentación modulo motor/transmision
+P0688,;Cortocircuito a positivo rele control del motor.
+P0689,;Señal baja rele alimentación modulo motor/transmision
+P068A,;ECM/PCM Power Relay De-Energized Performance Too Early
+P068B,;ECM/PCM Power Relay De-Energized Performance Too Late
+P068C,;Glow Plug 7 Control Circuit Low
+P068D,;Glow Plug 7 Control Circuit High
+P068E,;Glow Plug 8 Control Circuit Low
+P068F,;Glow Plug 8 Control Circuit High
+P0690,;Señal alta rele alimentacion modulo motor/transmission.
+P0691,;Cortocircuito a masa ventilador1 refrigerante motor
+P0692,;Cortocircuito a positivo ventilador1 refrigerante motor
+P0693,;Cortocircuito a masa ventilador 2 refrigerante motor
+P0694,;Cortocircutio a positivo ventilador 2 refrigerante motor
+P0695,;Cortocircuito a masa ventilador 3 refrigerante motor
+P0696,;Cortocircuito a positivo ventilador 3 refrigerante motor
+P0697,;Circuito abierto tensión referencia 3
+P0698,;Señal baja sensor tensión referencia 3
+P0699,;Señal alta sensor tensión referencia 3
+P069A,;Glow Plug 9 Control Circuit Low
+P069B,;Glow Plug 9 Control Circuit High
+P069C,;Glow Plug 10 Control Circuit Low
+P069D,;Glow Plug 10 Control Circuit High
+P0700,;Sistema de control de transmisión defectuoso.
+P0701,;Rendimiento incorrecto sistema de control de transmisión
+P0702,;Fallo eléctrico sistema de control de transmision
+P0703,;Circuito defectuoso convertidor de par(interruptor de freno 2)
+P0704,;Circuito defectuoso interruptor posición pedal embrague.
+P0705,;Circuito defectuoso sensor /interruptor marchas cortas y largas L/D/N/R/P
+P0706,;Rendimiento incorrecto sensor /interruptor marchas cortas y largas L/D/N/R/P
+P0707,;Señal baja sensor /interruptor marchas cortas y largas L/D/N/R/P
+P0708,;Señal alta sensor /interruptor marchas cortas y largas L/D/N/R/P
+P0709,;Circuito intermitente sensor /interruptor marchas cortas y largas L/D/N/R/P
+P070A,;Transmission Fluid Level Sensor Circuit
+P070B,;Transmission Fluid Level Sensor Circuit Range/Performance
+P070C,;Transmission Fluid Level Sensor Circuit Low
+P070D,;Transmission Fluid Level Sensor Circuit High
+P070E,;Transmission Fluid Level Sensor Circuit intermittent/Erratic
+P070F,;Transmission Fluid Level Too Low
+P0710,;Circuito defectuoso sensor temperatura 1 del aceite transmisión.
+P0711,;Rango incorrecto sensor temperatura 1 del aceite transmisión.
+P0712,;Señal baja sensor temperatura 1 del aceite transmisión.
+P0713,;Señal alta sensor temperatura 1 del aceite transmisión.
+P0714,;Señal intermitente sensor temperatura 1 del aceite transmisión.
+P0715,;Circuito defectuoso sensor velocidad transmisión 1
+P0716,;Rango incorrecto sensor velocidad transmisión 1
+P0717,;No hay señal sensor velocidad transmisión 1
+P0718,;Señal intermitente sensor velocidad transmisión 1
+P0719,;Señal baja interruptor de freno 2/convertidor de par
+P071A,;Transmission Mode Switch A Circuit
+P071B,;Transmission Mode Switch A Circuit Low
+P071C,;Transmission Mode Switch A Circuit High
+P071D,;Transmission Mode Switch B Circuit
+P071E,;Transmission Mode Switch B Circuit Low
+P071F,;Transmission Mode Switch B Circuit High
+P0720,;Circuito defectuoso sensor velocidad del vehiculo
+P0721,;Rendimiento incorrecto sensor velocidad del vehiculo
+P0722,;No hay señal sensor velocidad del vehiculo
+P0723,;Velocidad intermitente sensor velocidad del vehiculo
+P0724,;Señal alta convertidor de par/interruptor de freno 2
+P0725,;Circuito defectuoso señal entrada régimen motor
+P0726,;Rendimiento incorrecto señal entrada régimen motor
+P0727,;No existe señal de entrada de régimen motor
+P0728,;Señal intermitente entrada régimen motor
+P0729,;Marcha 6 = relación incorrecta
+P0730,;Relacion de marchas inocrrecta
+P0731,;Marcha 1 = relación incorrecta
+P0732,;Marcha 2 = relación incorrecta
+P0733,;Marcha 3 = relación incorrecta
+P0734,;Marcha 4 = relación incorrecta
+P0735,;Marcha 5 = relación incorrecta
+P0736,;Marcha atras = relación incorrecta
+P0737,;Señal de salida incorrecto modulo de motor control de transmision
+P0738,;Señal baja modulo de motor control de transmision
+P0739,;Señal alta modulo de motor control de transmision
+P0740,;Circuito defectuoso valvula embrague del convertidor de par
+P0741,;Funcionamiento incorrecto/desactivado valvula embrague del convertidor de par
+P0742,;Activado permanente valvula embrague del convertidor de par
+P0743,;Fallo en el circuito eléctrico valvula embrague del convertidor de par
+P0744,;Fallo intermitente valvula embrague del convertidor de par
+P0745,;Circuito defectuoso solenoide presión de a
+P0746,;Solenoide presion aceite transmision – funcionamiento,desactivado
+P0747,;Solenoide presion aceite transmision – activado permanente
+P0748,;Solenoide presion aceite transmision – circuito electrico
+P0749,;Solenoide presion aceite transmision – interrupcion intermitente
+P0750,;Electrovalvula cambio A – circuito defectuoso
+P0751,;Electrovalvula cambio A – funcionamiento, desactivado
+P0752,;Electrovalvula cambio A – activado permanente
+P0753,;Electrovalvula cambio A – circuito electrico
+P0754,;Electrovalvula cambio A – interrupcion intermitente
+P0755,;Electrovalvula cambio B – circuito defectuoso
+P0756,;Electrovalvula cambio B – funcionamiento,desactivado
+P0757,;Electrovalvula cambio B – activado permanente
+P0758,;Electrovalvula cambio B – circuito electrico
+P0759,;Electrovalvula cambio B – interrupcion intermitente
+P075A,;Shift Solenoid G
+P075B,;Shift Solenoid G Performance/Stuck Off
+P075C,;Shift Solenoid G Stuck On
+P075D,;Shift Solenoid G Electrical
+P075E,;Shift Solenoid G Intermittent
+P0760,;Electrovalvula cambio C – circuito defectuoso
+P0761,;Electrovalvula cambio C – funcionamiento,desactivado
+P0762,;Electrovalvula cambio C – activado permanente
+P0763,;Electrovalvula cambio C – circuito electrico
+P0764,;Electrovalvula cambio C – interrupcion intermitente
+P0765,;Electrovalvula cambio D – circuito defectuoso
+P0766,;Electrovalvula cambio D – funcionamiento,desactivado
+P0767,;Electrovalvula cambio D – activado permanente
+P0768,;Electrovalvula cambio D – circuito electrico
+P0769,;Electrovalvula cambio D – interrupcion intermitente
+P076A,;Shift Solenoid H
+P076B,;Shift Solenoid H Performance/Stuck Off
+P076C,;Shift Solenoid H Stuck On
+P076D,;Shift Solenoid H Electrical
+P076E,;Shift Solenoid H Intermittent
+P076F,;Gear 7 Incorrect Ratio
+P0770,;Electrovalvula cambio E – circuito defectuoso
+P0771,;Electrovalvula cambio E – funcionamiento, desactivado
+P0772,;Electrovalvula cambio E – activado permanente
+P0773,;Electrovalvula cambio E – circuito electrico
+P0774,;Electrovalvula cambio E – interrupcion intermitente
+P0775,;Solenoide control presion B – circuito defectuoso
+P0776,;Solenoide control presion B – funcionamiento, desactivado
+P0777,;Solenoide control presion B – activado permanente
+P0778,;Solenoide control presion B – averia electrica
+P0779,;Solenoide control presion B – interrupcion intermitente
+P0780,;Seleccion de marchas – cambio defectuoso
+P0781,;Seleccion de marchas 1-2 – cambio defectuoso
+P0782,;Seleccion de marchas 2-3 – cambio defectuoso
+P0783,;Seleccion de marchas 3-4 – cambio defectuoso
+P0784,;Seleccion de marchas 4-5 – cambio defectuoso
+P0785,;Electrovalvula cambio/reglaje – circuito defectuoso
+P0786,;Electrovalvula cambio/reglaje – rango,funcionamiento
+P0787,;Electrovalvula cambio/reglaje – señal baja
+P0788,;Electrovalvula cambio/reglaje – señal alta
+P0789,;Electrovalvula cambio/reglaje – señal intermitente
+P0790,;Interruptor seleccion modo cambio – circuito defectuoso
+P0791,;Sensor velocidad giro arbol intermedio – circuito defectuoso
+P0792,;Sensor velocidad giro arbol intermedio – rango,funcionamiento
+P0793,;Sensor velocidad giro arbol intermedio – No hay señal
+P0794,;Sensor velocidad giro arbol intermedio – averia intermitente
+P0795,;Solenoide presion aceite transmision C – circuito defectuoso
+P0796,;Solenoide presion aceite transmision C – funcionamiento,desactivado
+P0797,;Solenoide presion aceite transmision C – activado permanente
+P0798,;Solenoide presion aceite transmision C – averia electrica
+P0799,;Solenoide presion aceite transmision C – averia intermitente
+P0800,;Control caja transferencia, peticion testigo averias – funcionamiento incorrecto
+P0801,;Reverse Inhibit Control Circuit
+P0802,;Transmission Control System MIL Request Circuit/Open
+P0803,;Upshift/Skip Shift Solenoid Control Circuit
+P0804,;Upshift/Skip Shift Lamp Control Circuit
+P0805,;Clutch Position Sensor Circuit
+P0806,;Clutch Position Sensor Circuit Range/Performance
+P0807,;Clutch Position Sensor Circuit Low
+P0808,;Clutch Position Sensor Circuit High
+P0809,;Clutch Position Sensor Circuit Intermittent
+P080A,;Clutch Position Not Learned
+P080B,;Upshift/Skip Shift Solenoid Control Circuit Range/Performance
+P080C,;Upshift/Skip Shift Solenoid Control Circuit Low
+P080D,;Upshift/Skip Shift Solenoid Control Circuit High
+P0810,;Clutch Position Control Error
+P0811,;Excessive Clutch A Slippage
+P0812,;Reverse Input Circuit
+P0813,;Reverse Output Circuit
+P0814,;Transmission Range Display Circuit
+P0815,;Upshift Switch Circuit
+P0816,;Downshift Switch Circuit
+P0817,;Starter Disable Circuit/Open
+P0818,;Driveline Disconnect Switch Input Circuit
+P0819,;Up and Down Shift Switch to Transmission Range Correlation
+P081A,;Starter Disable Circuit Low
+P081B,;Starter Disable Circuit High
+P081C,;Park Input Circuit
+P081D,;Neutral Input Circuit
+P081E,;Excessive Clutch B Slippage
+P0820,;Gear Lever X-Y Position Sensor Circuit
+P0821,;Gear Lever X Position Circuit
+P0822,;Gear Lever Y Position Circuit
+P0823,;Gear Lever X Position Circuit Intermittent
+P0824,;Gear Lever Y Position Circuit Intermittent
+P0825,;Gear Lever Push-Pull Switch (Shift Anticipate)
+P0826,;Up and Down Shift Switch Circuit
+P0827,;Up and Down Shift Switch Circuit Low
+P0828,;Up and Down Shift Switch Circuit High
+P0829,;5-6 Shift
+P0830,;Clutch Pedal Switch A Circuit
+P0831,;Clutch Pedal Switch A Circuit Low
+P0832,;Clutch Pedal Switch A Circuit High
+P0833,;Clutch Pedal Switch B Circuit
+P0834,;Clutch Pedal Switch B Circuit Low
+P0835,;Clutch Pedal Switch B Circuit High
+P0836,;Four Wheel Drive (4WD) Switch Circuit
+P0837,;Four Wheel Drive (4WD) Switch Circuit Range/Performance
+P0838,;Four Wheel Drive (4WD) Switch Circuit Low
+P0839,;Four Wheel Drive (4WD) Switch Circuit High
+P083A,;Transmission Fluid Pressure Sensor/Switch G Circuit
+P083B,;Transmission Fluid Pressure Sensor/Switch G Circuit Range/Performance
+P083C,;Transmission Fluid Pressure Sensor/Switch G Circuit Low
+P083D,;Transmission Fluid Pressure Sensor/Switch G Circuit High
+P083E,;Transmission Fluid Pressure Sensor/Switch G Circuit Intermittent
+P083F,;Clutch Pedal Switch A/B Correlation
+P0840,;Transmission Fluid Pressure Sensor/Switch A Circuit
+P0841,;Transmission Fluid Pressure Sensor/Switch A Circuit Range/Performance
+P0842,;Transmission Fluid Pressure Sensor/Switch A Circuit Low
+P0843,;Transmission Fluid Pressure Sensor/Switch A Circuit High
+P0844,;Transmission Fluid Pressure Sensor/Switch A Circuit Intermittent
+P0845,;Transmission Fluid Pressure Sensor/Switch B Circuit
+P0846,;Transmission Fluid Pressure Sensor/Switch B Circuit Range/Performance
+P0847,;Transmission Fluid Pressure Sensor/Switch B Circuit Low
+P0848,;Transmission Fluid Pressure Sensor/Switch B Circuit High
+P0849,;Transmission Fluid Pressure Sensor/Switch B Circuit Intermittent
+P084A,;Transmission Fluid Pressure Sensor/Switch H Circuit
+P084B,;Transmission Fluid Pressure Sensor/Switch H Circuit Range/Performance
+P084C,;Transmission Fluid Pressure Sensor/Switch H Circuit Low
+P084D,;Transmission Fluid Pressure Sensor/Switch H Circuit High
+P084E,;Transmission Fluid Pressure Sensor/Switch H Circuit Intermittent
+P0850,;Park/Neutral Switch Input Circuit
+P0851,;Park/Neutral Switch Input Circuit Low
+P0852,;Park/Neutral Switch Input Circuit High
+P0853,;Drive Switch Input Circuit
+P0854,;Drive Switch Input Circuit Low
+P0855,;Drive Switch Input Circuit High
+P0856,;Traction Control Input Signal
+P0857,;Traction Control Input Signal Range/Performance
+P0858,;Traction Control Input Signal Low
+P0859,;Traction Control Input Signal High
+P085A,;Gear Shift Module B Communication Circuit
+P085B,;Gear Shift Module B Communication Circuit Low
+P085C,;Gear Shift Module B Communication Circuit High
+P0860,;Gear Shift Module A Communication Circuit
+P0861,;Gear Shift Module A Communication Circuit Low
+P0862,;Gear Shift Module A Communication Circuit High
+P0863,;TCM Communication Circuit
+P0864,;TCM Communication Circuit Range/Performance
+P0865,;TCM Communication Circuit Low
+P0866,;TCM Communication Circuit High
+P0867,;Transmission Fluid Pressure
+P0868,;Transmission Fluid Pressure Low
+P0869,;Transmission Fluid Pressure High
+P0870,;Transmission Fluid Pressure Sensor/Switch C Circuit
+P0871,;Transmission Fluid Pressure Sensor/Switch C Circuit Range/Performance
+P0872,;Transmission Fluid Pressure Sensor/Switch C Circuit Low
+P0873,;Transmission Fluid Pressure Sensor/Switch C Circuit High
+P0874,;Transmission Fluid Pressure Sensor/Switch C Circuit Intermittent
+P0875,;Transmission Fluid Pressure Sensor/Switch D Circuit
+P0876,;Transmission Fluid Pressure Sensor/Switch D Circuit Range/Performance
+P0877,;Transmission Fluid Pressure Sensor/Switch D Circuit Low
+P0878,;Transmission Fluid Pressure Sensor/Switch D Circuit High
+P0879,;Transmission Fluid Pressure Sensor/Switch D Circuit Intermittent
+P0880,;TCM Power Input Signal
+P0881,;TCM Power Input Signal Range/Performance
+P0882,;TCM Power Input Signal Low
+P0883,;TCM Power Input Signal High
+P0884,;TCM Power Input Signal Intermittent
+P3407,;Cylinder 1 Exhaust Valve Control Circuit Low
+P3408,;Cylinder 1 Exhaust Valve Control Circuit High
+P3409,;Cylinder 2 Deactivation/Intake Valve Control Circuit/Open
+P3410,;Cylinder 2 Deactivation/Intake Valve Control Circuit Performance
+P3411,;Cylinder 2 Deactivation/Intake Valve Control Circuit Low
+P3412,;Cylinder 2 Deactivation/Intake Valve Control Circuit High
+P3413,;Cylinder 2 Exhaust Valve Control Circuit/Open
+P3414,;Cylinder 2 Exhaust Valve Control Circuit Performance
+P3415,;Cylinder 2 Exhaust Valve Control Circuit Low
+P3416,;Cylinder 2 Exhaust Valve Control Circuit High
+P3417,;Cylinder 3 Deactivation/Intake Valve Control Circuit/Open
+P3418,;Cylinder 3 Deactivation/Intake Valve Control Circuit Performance
+P3419,;Cylinder 3 Deactivation/Intake Valve Control Circuit Low
+P3420,;Cylinder 3 Deactivation/Intake Valve Control Circuit High
+P3421,;Cylinder 3 Exhaust Valve Control Circuit/Open
+P3422,;Cylinder 3 Exhaust Valve Control Circuit Performance
+P3423,;Cylinder 3 Exhaust Valve Control Circuit Low
+P3424,;Cylinder 3 Exhaust Valve Control Circuit High
+P3425,;Cylinder 4 Deactivation/Intake Valve Control Circuit/Open
+P3426,;Cylinder 4 Deactivation/Intake Valve Control Circuit Performance
+P3427,;Cylinder 4 Deactivation/Intake Valve Control Circuit Low
+P3428,;Cylinder 4 Deactivation/Intake Valve Control Circuit High
+P3429,;Cylinder 4 Exhaust Valve Control Circuit/Open
+P3430,;Cylinder 4 Exhaust Valve Control Circuit Performance
+P3431,;Cylinder 4 Exhaust Valve Control Circuit Low
+P3432,;Cylinder 4 Exhaust Valve Control Circuit High
+P3433,;Cylinder 5 Deactivation/Intake Valve Control Circuit/Open
+P3434,;Cylinder 5 Deactivation/Intake Valve Control Circuit Performance
+P3435,;Cylinder 5 Deactivation/Intake Valve Control Circuit Low
+P3436,;Cylinder 5 Deactivation/Intake Valve Control Circuit High
+P3437,;Cylinder 5 Exhaust Valve Control Circuit/Open
+P3438,;Cylinder 5 Exhaust Valve Control Circuit Performance
+P3439,;Cylinder 5 Exhaust Valve Control Circuit Low
+P3440,;Cylinder 5 Exhaust Valve Control Circuit High
+P3441,;Cylinder 6 Deactivation/Intake Valve Control Circuit/Open
+P3442,;Cylinder 6 Deactivation/Intake Valve Control Circuit Performance
+P3443,;Cylinder 6 Deactivation/Intake Valve Control Circuit Low
+P3444,;Cylinder 6 Deactivation/Intake Valve Control Circuit High
+P3445,;Cylinder 6 Exhaust Valve Control Circuit/Open
+P3446,;Cylinder 6 Exhaust Valve Control Circuit Performance
+P3447,;Cylinder 6 Exhaust Valve Control Circuit Low
+P3448,;Cylinder 6 Exhaust Valve Control Circuit High
+P3449,;Cylinder 7 Deactivation/Intake Valve Control Circuit/Open
+P3450,;Cylinder 7 Deactivation/Intake Valve Control Circuit Performance
+P3451,;Cylinder 7 Deactivation/Intake Valve Control Circuit Low
+P3452,;Cylinder 7 Deactivation/Intake Valve Control Circuit High
+P3453,;Cylinder 7 Exhaust Valve Control Circuit/Open
+P3454,;Cylinder 7 Exhaust Valve Control Circuit Performance
+P3455,;Cylinder 7 Exhaust Valve Control Circuit Low
+P3456,;Cylinder 7 Exhaust Valve Control Circuit High
+P3457,;Cylinder 8 Deactivation/Intake Valve Control Circuit/Open
+P3458,;Cylinder 8 Deactivation/Intake Valve Control Circuit Performance
+P3459,;Cylinder 8 Deactivation/Intake Valve Control Circuit Low
+P3460,;Cylinder 8 Deactivation/Intake Valve Control Circuit High
+P3461,;Cylinder 8 Exhaust Valve Control Circuit/Open
+P3462,;Cylinder 8 Exhaust Valve Control Circuit Performance
+P3463,;Cylinder 8 Exhaust Valve Control Circuit Low
+P3464,;Cylinder 8 Exhaust Valve Control Circuit High
+P3465,;Cylinder 9 Deactivation/Intake Valve Control Circuit/Open
+P3466,;Cylinder 9 Deactivation/Intake Valve Control Circuit Performance
+P3467,;Cylinder 9 Deactivation/Intake Valve Control Circuit Low
+P3468,;Cylinder 9 Deactivation/Intake Valve Control Circuit High
+P3469,;Cylinder 9 Exhaust Valve Control Circuit/Open
+P3470,;Cylinder 9 Exhaust Valve Control Circuit Performance
+P3471,;Cylinder 9 Exhaust Valve Control Circuit Low
+P3472,;Cylinder 9 Exhaust Valve Control Circuit High
+P3473,;Cylinder 10 Deactivation/Intake Valve Control Circuit/Open
+P3474,;Cylinder 10 Deactivation/Intake Valve Control Circuit Performance
+P3475,;Cylinder 10 Deactivation/Intake Valve Control Circuit Low
+P3476,;Cylinder 10 Deactivation/Intake Valve Control Circuit High
+P3477,;Cylinder 10 Exhaust Valve Control Circuit/Open
+P3478,;Cylinder 10 Exhaust Valve Control Circuit Performance
+P3479,;Cylinder 10 Exhaust Valve Control Circuit Low
+P3480,;Cylinder 10 Exhaust Valve Control Circuit High
+P3481,;Cylinder 11 Deactivation/Intake Valve Control Circuit/Open
+P3482,;Cylinder 11 Deactivation/Intake Valve Control Circuit Performance
+P3483,;Cylinder 11 Deactivation/Intake Valve Control Circuit Low
+P3484,;Cylinder 11 Deactivation/Intake Valve Control Circuit High
+P3485,;Cylinder 11 Exhaust Valve Control Circuit/Open
+P3486,;Cylinder 11 Exhaust Valve Control Circuit Performance
+P3487,;Cylinder 11 Exhaust Valve Control Circuit Low
+P3488,;Cylinder 11 Exhaust Valve Control Circuit High
+P3489,;Cylinder 12 Deactivation/Intake Valve Control Circuit/Open
+P3490,;Cylinder 12 Deactivation/Intake Valve Control Circuit Performance
+P3491,;Cylinder 12 Deactivation/Intake Valve Control Circuit Low
+P3492,;Cylinder 12 Deactivation/Intake Valve Control Circuit High
+P3493,;Cylinder 12 Exhaust Valve Control Circuit/Open
+P3494,;Cylinder 12 Exhaust Valve Control Circuit Performance
+P3495,;Cylinder 12 Exhaust Valve Control Circuit Low
+P3496,;Cylinder 12 Exhaust Valve Control Circuit High
+P3497,;Cylinder Deactivation System Bank 2
